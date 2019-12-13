@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Pets-App/static/css/main.613c09ec.chunk.css",
+    "main.js": "/Pets-App/static/js/main.d21bfc22.chunk.js",
+    "main.js.map": "/Pets-App/static/js/main.d21bfc22.chunk.js.map",
+    "runtime-main.js": "/Pets-App/static/js/runtime-main.e1e22e64.js",
+    "runtime-main.js.map": "/Pets-App/static/js/runtime-main.e1e22e64.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/Pets-App/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.c9bf0c0b.chunk.js": "/Pets-App/static/js/2.c9bf0c0b.chunk.js",
+    "static/js/2.c9bf0c0b.chunk.js.map": "/Pets-App/static/js/2.c9bf0c0b.chunk.js.map",
+    "index.html": "/Pets-App/index.html",
+    "precache-manifest.3ee37d9eb0bab52e3d62128657f296d3.js": "/Pets-App/precache-manifest.3ee37d9eb0bab52e3d62128657f296d3.js",
+    "service-worker.js": "/Pets-App/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/Pets-App/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.613c09ec.chunk.css.map": "/Pets-App/static/css/main.613c09ec.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1e22e64.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.c9bf0c0b.chunk.js",
+    "static/css/main.613c09ec.chunk.css",
+    "static/js/main.d21bfc22.chunk.js"
+  ]
+}
